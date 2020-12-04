@@ -30,4 +30,4 @@ The information should be sorted in ascending order.
 Duplicate entries are not allowed.
 
 # PR's
-[First PR]()
+[First PR](https://github.com/LeeThomas13/automation/pull/1)
